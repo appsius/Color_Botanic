@@ -1,0 +1,23 @@
+[33mcommit 6dfce0661a4cc49e32a2ace64071a9f75614e4cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Appsius <ilyas.ustunkaya234434@gmail.com>
+Date:   Wed Dec 11 21:03:50 2019 +0300
+
+    Add CopyToClipboard
+
+[33mcommit 4fde2f7ce9219dbaae725f6b91be23b3c1880475[m
+Author: Appsius <ilyas.ustunkaya234434@gmail.com>
+Date:   Wed Dec 11 16:39:25 2019 +0300
+
+    Style ColorBox
+
+[33mcommit 65b018d135f03f7bbcc57a1eabe7dc5c8084ae04[m
+Author: Appsius <ilyas.ustunkaya234434@gmail.com>
+Date:   Wed Dec 11 15:23:44 2019 +0300
+
+    color boxes shown
+
+[33mcommit 140256d4fadff0a4e9acb1f73ab20d6cf916983c[m
+Author: Appsius <ilyas.ustunkaya234434@gmail.com>
+Date:   Wed Dec 11 15:03:58 2019 +0300
+
+    react app setup, palette conf. done
