@@ -12,6 +12,7 @@
 }
 .ColorBox.go-back {
   background-color: black;
+  position: relative;
 }
 
 .copy-button,
