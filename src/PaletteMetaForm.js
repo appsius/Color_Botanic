@@ -41,6 +41,7 @@ class PaletteMetaForm extends Component {
       emoji: emoji.native
     };
     this.props.handleSubmit(newPalette);
+    this.setState({ stage: '' });
   }
   handleClickOpen = () => {
     this.setState({ open: true });
@@ -64,7 +65,6 @@ class PaletteMetaForm extends Component {
         </Dialog>
         <Dialog
           open={this.state.stage === 'form'}
-          onClose={this.handleClose}
           aria-labelledby='form-dialog-title'
           onClose={hideForm}
         >
